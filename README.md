@@ -1,10 +1,10 @@
-## ANgular dev environement
+## Angular dev environement
 
 Dev environment based on Docker container
 
 ### Prerequisites
 
-1. Docker client
+1. Docker Desktop
 
 ### Initialisation
 
